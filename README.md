@@ -1,4 +1,4 @@
-## AutoML を用いたサロゲートモデル構築（初期アプローチ）
+## AutoML を用いたサロゲートモデル構築
 
 本リポジトリは、AutoML ライブラリ PyCaret と AutoGluon を用いて  
 NACA4 / NACA5 データセットの Drag / Lift のサロゲートモデルを構築した初期実装です
@@ -22,4 +22,5 @@ NACA4 / NACA5 データセットの Drag / Lift のサロゲートモデルを�
 ### License
 本リポジトリのコードは 自由に利用・改変・再配布 して構いません。
 形式上は MIT License とします。
+
 
